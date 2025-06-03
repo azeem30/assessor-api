@@ -6,3 +6,4 @@ pymysql
 cryptography
 sentence-transformers
 langdetect
+gunicorn
